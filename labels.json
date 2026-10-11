@@ -1,0 +1,202 @@
+[
+  {
+    "message_id": "M01",
+    "customer_name": "Omar Khalil",
+    "order_ids": ["NT-10578"],
+    "product": "Samsung Galaxy A55",
+    "issue_type": "damaged_item",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M02",
+    "customer_name": "Sara Nasser",
+    "order_ids": ["NT-10559"],
+    "product": "JBL Tune 520BT headphones",
+    "issue_type": "refund_request",
+    "wants_refund": true,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M03",
+    "customer_name": null,
+    "order_ids": ["NT-10551"],
+    "product": null,
+    "issue_type": "late_delivery",
+    "wants_refund": false,
+    "urgency": "high",
+    "language": "en"
+  },
+  {
+    "message_id": "M04",
+    "customer_name": "Rami",
+    "order_ids": ["NT-10465"],
+    "product": "Lenovo Ideapad charger",
+    "issue_type": "defective",
+    "wants_refund": false,
+    "urgency": "high",
+    "language": "en"
+  },
+  {
+    "message_id": "M05",
+    "customer_name": "Maya Saleh",
+    "order_ids": ["NT-10579"],
+    "product": "Apple AirPods Pro 2",
+    "issue_type": "wrong_item",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M06",
+    "customer_name": "Khaled Mansour",
+    "order_ids": ["NT-10574"],
+    "product": null,
+    "issue_type": "billing",
+    "wants_refund": true,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M07",
+    "customer_name": "Mohammed Al-Ali",
+    "order_ids": ["NT-10576"],
+    "product": "Xiaomi 55 inch TV",
+    "issue_type": "damaged_item",
+    "wants_refund": true,
+    "urgency": "medium",
+    "language": "ar"
+  },
+  {
+    "message_id": "M08",
+    "customer_name": "Yousef",
+    "order_ids": ["NT-10564"],
+    "product": "smart plug",
+    "issue_type": "defective",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M09",
+    "customer_name": null,
+    "order_ids": [],
+    "product": "Sony WH-1000XM5",
+    "issue_type": "other",
+    "wants_refund": false,
+    "urgency": "low",
+    "language": "en"
+  },
+  {
+    "message_id": "M10",
+    "customer_name": "Hana Qasem",
+    "order_ids": ["NT-10567","NT-10570"],
+    "product": "Logitech mouse, USB-C hub",
+    "issue_type": "late_delivery",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M11",
+    "customer_name": "Lina Haddad",
+    "order_ids": ["NT-10571"],
+    "product": null,
+    "issue_type": "late_delivery",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M12",
+    "customer_name": "Tariq",
+    "order_ids": ["NT-10584"],
+    "product": "iPhone",
+    "issue_type": "cancellation",
+    "wants_refund": true,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M13",
+    "customer_name": null,
+    "order_ids": [],
+    "product": null,
+    "issue_type": "defective",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M14",
+    "customer_name": "Reem",
+    "order_ids": ["NT-10542"],
+    "product": "headphones",
+    "issue_type": "defective",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "mixed"
+  },
+  {
+    "message_id": "M15",
+    "customer_name": "Dana Khoury",
+    "order_ids": ["NT-10552"],
+    "product": "smartwatch",
+    "issue_type": "late_delivery",
+    "wants_refund": false,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M16",
+    "customer_name": "Faris Odeh",
+    "order_ids": ["NT-10572"],
+    "product": "Galaxy Tab A9",
+    "issue_type": "wrong_item",
+    "wants_refund": true,
+    "urgency": "high",
+    "language": "en"
+  },
+  {
+    "message_id": "M17",
+    "customer_name": "Nour Abbas",
+    "order_ids": [],
+    "product": null,
+    "issue_type": "other",
+    "wants_refund": false,
+    "urgency": "low",
+    "language": "en"
+  },
+  {
+    "message_id": "M18",
+    "customer_name": "Ahmad Zoubi",
+    "order_ids": ["NT-10583"],
+    "product": "TV",
+    "issue_type": "other",
+    "wants_refund": false,
+    "urgency": "low",
+    "language": "en"
+  },
+  {
+    "message_id": "M19",
+    "customer_name": null,
+    "order_ids": ["NT-10566"],
+    "product": "Dell Inspiron 15",
+    "issue_type": "billing",
+    "wants_refund": true,
+    "urgency": "medium",
+    "language": "en"
+  },
+  {
+    "message_id": "M20",
+    "customer_name": "Sami Haddad",
+    "order_ids": ["NT-10182"],
+    "product": "Dell XPS 13",
+    "issue_type": "defective",
+    "wants_refund": false,
+    "urgency": "high",
+    "language": "ar"
+  }
+]

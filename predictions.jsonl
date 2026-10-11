@@ -1,0 +1,3 @@
+{"message_id": "M01", "customer_name": "Omar Khalil", "order_ids": ["NT-10578"], "product": "Samsung Galaxy A55", "issue_type": "damaged_item", "wants_refund": false, "urgency": "medium", "language": "en"}
+{"message_id": "M02", "customer_name": "Sara Nasser", "order_ids": ["NT-10559"], "product": "JBL Tune 520BT headphones", "issue_type": "refund_request", "wants_refund": true, "urgency": "medium", "language": "en"}
+{"message_id": "M03", "customer_name": null, "order_ids": ["NT-10551"], "product": null, "issue_type": "late_delivery", "wants_refund": false, "urgency": "high", "language": "en"}
